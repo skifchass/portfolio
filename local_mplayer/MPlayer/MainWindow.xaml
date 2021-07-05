@@ -1,0 +1,103 @@
+﻿<Window x:Class="MPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MPlayer" Height="450" Width="825" Icon="misc002.ico" Closing="Window_Closing_1">
+  
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="0.5*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="1" Grid.ColumnSpan="3" Background="Black" Orientation="Vertical">
+            <ListView x:Name="m_listView" Height="260" Background="Black" Foreground="White" Margin="0,0,0,1" >
+            <ListView.View>
+                <GridView>
+                        <GridView.Columns>
+                            <GridViewColumn Header="Файл" Width="120" DisplayMemberBinding ="{Binding Path= Name}"></GridViewColumn>
+                            <GridViewColumn Header="Исполнитель" Width="120" DisplayMemberBinding ="{Binding Path= Id3Artist}"></GridViewColumn>
+                            <GridViewColumn Header="Альбом" Width="120" DisplayMemberBinding="{Binding Path= Id3Album}"></GridViewColumn>
+                            <GridViewColumn Header="Номер" Width="60" DisplayMemberBinding="{Binding Path= Id3TrackNumber}"></GridViewColumn>
+                            <GridViewColumn Header="Время" Width="60" DisplayMemberBinding="{Binding Path= MPtime}"></GridViewColumn>
+                            <GridViewColumn Header="Название" Width="120" DisplayMemberBinding="{Binding Path= Id3Title}"></GridViewColumn>
+                            <GridViewColumn Header="Комментарий" Width="90" DisplayMemberBinding="{Binding Path= Id3Comment}"></GridViewColumn>
+                            <GridViewColumn Header="Жанр" Width="70" DisplayMemberBinding="{Binding Path= Genre}"></GridViewColumn>
+                            <GridViewColumn Header="Год" Width="60" DisplayMemberBinding="{Binding Path= Id3Year}"></GridViewColumn>
+                        </GridView.Columns>
+                    </GridView>
+            </ListView.View>
+        </ListView>
+            <StackPanel Orientation="Horizontal">
+                <Button Width="120" Height="20" Margin="10,1, 10, 0" Content="Выбрать из списка" Click="OnClickSelect"/>
+                <Button Width="120" Height="20" Margin="10,0, 10, 1" Content="Редактировать трек" Click="OnClickEdit"></Button>
+                <Button Width="120" Height="20" Margin="10,0, 10, 1" Content="Удалить из списка" Click="OnClickDelete"></Button>
+                <Button Width="120" Height="20" Margin="10,0, 410, 1" Content="Выход" Click="OnClickExit"></Button>
+            </StackPanel>
+            </StackPanel>
+        <ScrollViewer Grid.Column="2">
+            <ListView x:Name="m_listBox" Background="Black" Foreground="White" >
+                <ListView.View>
+                    <GridView>
+                        <GridView.Columns>
+                            <GridViewColumn Header="Трек" Width="100" DisplayMemberBinding="{Binding Path=Name}"></GridViewColumn>
+                            <GridViewColumn Header="Время" Width="80" DisplayMemberBinding="{Binding Path= MPtime}"></GridViewColumn>
+                        </GridView.Columns>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </ScrollViewer>
+        <StackPanel Grid.Column="1" Orientation="Horizontal" Background="Black">
+          
+            <ListBox x:Name="m_listmp" ItemsSource="{Binding Path= m_mp3file}" Width="410" Background="Black" Foreground="White">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Vertical">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Название:" Width="100"></TextBlock>
+                                <TextBlock Text="{Binding Path= Name}" Width="210"></TextBlock>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Исполнитель:" Width="100"></TextBlock>
+                                <TextBlock Text="{Binding Path= Id3Artist}" Width="210"></TextBlock>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Альбом:" Width="100"></TextBlock>
+                                <TextBlock Text="{Binding Path= Id3Album}" Width="210"></TextBlock>
+                            </StackPanel>
+                        </StackPanel>
+                        
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+        <StackPanel Background="Black">
+            <TextBlock x:Name="m_TextBlock" Foreground="White" FontSize="38" Height="40"></TextBlock>
+            <Slider x:Name="m_Slider" Margin="10, 10, 10,0" ToolTip="Слайдер" IsManipulationEnabled="True" IsEnabled="True" IsMoveToPointEnabled="True" AllowDrop="True" PreviewMouseLeftButtonUp="m_Slider_PreviewMouseLeftButtonUp" />
+            <Slider x:Name="m_Volume" Margin="10, 5, 100, 0" ToolTip="Громкость" ValueChanged="OnValueChange"></Slider>
+            <StackPanel Height="60" Orientation="Horizontal">
+                <Button Height="20" Width="20" Margin="15,20,0,20" Background="LightGray" ToolTip="Предыдущая дорожка" Click="OnClickPrev">
+                    <Image Source="player_rev.png"></Image>
+                </Button>
+                <Button Height="20" Width="20" Background="LightGray" ToolTip="Воспроизводить" Click="OnClickButtonPlay">
+                    <Image Source="play.png"></Image>
+                </Button>
+                <Button Height="20" Width="20" Background="LightGray" ToolTip="Приостановить" Click="OnClickPause">
+                    <Image Source="player_pause.png"></Image>
+                </Button>
+                <Button Height="20" Width="20" Background="LightGray" ToolTip="Остановить" Click="OnClickStop">
+                    <Image Source="player_stop.png"></Image>
+                </Button>
+                <Button Height="20" Width="20" Background="LightGray" ToolTip="Следующая дорожка" Click="OnClickNext">
+                    <Image Source="player_fwd.png"></Image>
+                </Button>
+                <Button Height="20" Width="20" Margin="20" Background="LightGray" ToolTip="Открыть файл" Click="OnClickBrowsButton">
+                    <Image Source="player_eject.png"></Image>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

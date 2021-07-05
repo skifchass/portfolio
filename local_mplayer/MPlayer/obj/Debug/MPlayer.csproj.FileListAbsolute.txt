@@ -1,0 +1,62 @@
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\bin\Debug\MPlayer.exe.config
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\bin\Debug\MPlayer.exe
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\bin\Debug\MPlayer.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\MPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\App.g.cs
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\MPlayer_MarkupCompile.cache
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\MPlayer.g.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\MPlayer.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\MPlayer.csproj.GenerateResource.Cache
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\MPlayer.exe
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\MPlayer.pdb
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\EditTrackWindow.baml
+C:\Users\Алексей\Documents\Visual Studio 2012\Projects\MPlayer\MPlayer\obj\Debug\EditTrackWindow.g.cs
+F:\WPF\MPlayer\MPlayer\bin\Debug\MPlayer.exe.config
+F:\WPF\MPlayer\MPlayer\obj\Debug\MPlayer.exe
+F:\WPF\MPlayer\MPlayer\obj\Debug\MPlayer.pdb
+F:\WPF\MPlayer\MPlayer\bin\Debug\MPlayer.exe
+F:\WPF\MPlayer\MPlayer\bin\Debug\MPlayer.pdb
+F:\WPF\MPlayer\MPlayer\obj\Debug\MPlayer.csprojResolveAssemblyReference.cache
+F:\WPF\MPlayer\MPlayer\obj\Debug\EditTrackWindow.baml
+F:\WPF\MPlayer\MPlayer\obj\Debug\MainWindow.baml
+F:\WPF\MPlayer\MPlayer\obj\Debug\EditTrackWindow.g.cs
+F:\WPF\MPlayer\MPlayer\obj\Debug\MainWindow.g.cs
+F:\WPF\MPlayer\MPlayer\obj\Debug\App.g.cs
+F:\WPF\MPlayer\MPlayer\obj\Debug\MPlayer_MarkupCompile.cache
+F:\WPF\MPlayer\MPlayer\obj\Debug\MPlayer.g.resources
+F:\WPF\MPlayer\MPlayer\obj\Debug\MPlayer.Properties.Resources.resources
+F:\WPF\MPlayer\MPlayer\obj\Debug\MPlayer.csproj.GenerateResource.Cache
+F:\иллюстратор\12_MPlayer\MPlayer\bin\Debug\MPlayer.exe.config
+F:\иллюстратор\12_MPlayer\MPlayer\bin\Debug\MPlayer.exe
+F:\иллюстратор\12_MPlayer\MPlayer\bin\Debug\MPlayer.pdb
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\MPlayer.csprojResolveAssemblyReference.cache
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\EditTrackWindow.baml
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\MainWindow.baml
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\EditTrackWindow.g.cs
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\MainWindow.g.cs
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\App.g.cs
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\MPlayer_MarkupCompile.cache
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\MPlayer.g.resources
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\MPlayer.Properties.Resources.resources
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\MPlayer.csproj.GenerateResource.Cache
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\MPlayer.csproj.CoreCompileInputs.cache
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\MPlayer.exe
+F:\иллюстратор\12_MPlayer\MPlayer\obj\Debug\MPlayer.pdb
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\bin\Debug\MPlayer.exe.config
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\bin\Debug\MPlayer.exe
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\bin\Debug\MPlayer.pdb
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\MPlayer.csprojResolveAssemblyReference.cache
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\EditTrackWindow.baml
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\MainWindow.baml
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\EditTrackWindow.g.cs
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\MainWindow.g.cs
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\App.g.cs
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\MPlayer_MarkupCompile.cache
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\MPlayer.g.resources
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\MPlayer.Properties.Resources.resources
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\MPlayer.csproj.GenerateResource.Cache
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\MPlayer.csproj.CoreCompileInputs.cache
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\MPlayer.exe
+F:\диплом\КУРСОВАЯ ТРПО\12_MPlayer\MPlayer\obj\Debug\MPlayer.pdb
