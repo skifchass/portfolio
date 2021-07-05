@@ -1,0 +1,33 @@
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\bin\Debug\Лаб.Strings.exe.config
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\bin\Debug\Лаб.Strings.exe
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\bin\Debug\Лаб.Strings.pdb
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\obj\Debug\Лаб. Strings.csprojResolveAssemblyReference.cache
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\obj\Debug\Лаб.Strings.Concat.resources
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\obj\Debug\Лаб.Strings.Form1.resources
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\obj\Debug\Лаб.Strings.Properties.Resources.resources
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\obj\Debug\Лаб. Strings.csproj.GenerateResource.Cache
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\obj\Debug\Лаб.Strings.exe
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\obj\Debug\Лаб.Strings.pdb
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\obj\Debug\Лаб.Strings.Compare.resources
+C:\Users\kbstudentint\Desktop\Лаб. Strings\Лаб. Strings\obj\Debug\Лаб.Strings.Search.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\bin\Debug\Лаб.Strings.exe.config
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.exe
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.pdb
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\bin\Debug\Лаб.Strings.exe
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\bin\Debug\Лаб.Strings.pdb
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб. Strings.csprojResolveAssemblyReference.cache
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.Compare.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.Concat.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.Form1.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.Properties.Resources.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.Search.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.Split.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб. Strings.csproj.GenerateResource.Cache
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.Trim.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.Insert.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.Replace.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.Remove.resources
+C:\Users\kbstudentint\Downloads\sdsdasdasd\Лаб. Strings\obj\Debug\Лаб.Strings.RegChange.resources
+C:\Users\kbstudentint\Downloads\3 ПКС 416 Баранов\Лаб. Strings\bin\Debug\Лаб.Strings.exe.config
+C:\Users\kbstudentint\Downloads\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.exe
+C:\Users\kbstudentint\Downloads\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.pdb

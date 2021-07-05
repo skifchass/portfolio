@@ -1,0 +1,21 @@
+C:\Users\kbstudentint\Downloads\3 ПКС 416 Баранов\Лаб. Strings\bin\Debug\Лаб.Strings.exe.config
+C:\Users\kbstudentint\Downloads\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.exe
+C:\Users\kbstudentint\Downloads\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.pdb
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\bin\Debug\Лаб.Strings.exe.config
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\bin\Debug\Лаб.Strings.exe
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\bin\Debug\Лаб.Strings.pdb
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.Compare.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.Concat.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.Form1.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.Insert.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.Properties.Resources.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.RegChange.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.Remove.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.Replace.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.Search.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.Split.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.Trim.resources
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\3ПКС-416 Баранов.csproj.GenerateResource.Cache
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\3ПКС-416 Баранов.csproj.CoreCompileInputs.cache
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.exe
+F:\диплом\3 ПКС 416 Баранов\Лаб. Strings\obj\Debug\Лаб.Strings.pdb
